@@ -35,3 +35,4 @@ wsproto==1.2.0
 eventlet
 gevent
 gevent-websocket
+gunicorn
