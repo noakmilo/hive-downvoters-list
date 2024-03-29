@@ -202,5 +202,5 @@ def get_downvotes(message):
             }
             emit('downvote_info', downvote_info)
 
-if __name__ == '__main__':
-    socketio.run(app, debug=True)
+#if __name__ == '__main__':
+#    socketio.run(app, debug=True)
